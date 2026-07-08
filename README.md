@@ -33,6 +33,10 @@ The **Quick Commerce Database Management System** is a relational database proje
 - ER Modeling
 - Relational Database Design
 
+## 📊 DBMS CHART
+
+![DBMS CHART](qcs.jpeg)
+
 ---
 
 ## 📂 Project Structure
